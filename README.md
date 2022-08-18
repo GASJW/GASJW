@@ -1,7 +1,7 @@
 ### Olá! Sou o Guilherme Augusto
 
-- 🔭 Hoje trabalho com redes na Central Networks & Tecnologia
-- 🌱 Estudando C#, angular e javascript
+- 🔭 Analista de Suporte Jr. na Deloitte Touche Tohmatsu Limited
+- 🌱 Estudando C#, Angular e JavaScript
 
 ##
 
