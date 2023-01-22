@@ -11,9 +11,9 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GASJW&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gui-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Gui-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Gui-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Gui-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Gui-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/typescript.svg">
+  <img align="center" alt="Gui-React" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg">
 </div>
   
   ##
