@@ -1,4 +1,4 @@
-### Olá! Sou o Guilherme Augusto
+### Hello! I am Guilherme Augusto
 
 - 🔭 Quality Analyst Jr. at Deloitte Touche Tohmatsu Limited
 - 🌱 Studiyng JavaScript, React, Node, Azure DevOps and SQL
